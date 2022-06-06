@@ -125,19 +125,19 @@ https://github.com/eternaldragonborn/BeeBuu-Server
     <td>賴彥宇</td>
     <td>D0845367</td>
     <td>eternaldragonborn</td>
-    <th></th>
+    <th>Integrate Project</th>
   </tr>
   
   <tr>
     <td>雷光勝</td>
     <td>D0636140</td>
     <td>andersonloi1998</td>
-    <th></th>
+    <th>Integrate Project</th>
   </tr>
   <tr>
     <td>吳佳琪</td>
     <td>D0841291</td>
     <td>d0841291</td>
-    <th></th>
+    <th>Integrate Project</th>
   </tr>
 </table>
