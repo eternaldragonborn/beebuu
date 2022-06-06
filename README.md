@@ -84,7 +84,7 @@ https://github.com/eternaldragonborn/BeeBuu-Server
   </tr>
 </table>
 
-# 2022-05-31
+# 2022-05-30
 <table>
   <tr>
     <th>組員姓名</th>
@@ -110,5 +110,34 @@ https://github.com/eternaldragonborn/BeeBuu-Server
     <td>D0841291</td>
     <td>d0841291</td>
     <th>bugfix #015</th>
+  </tr>
+</table>
+
+# 2022-06-06
+<table>
+  <tr>
+    <th>組員姓名</th>
+    <th>學號</th>
+    <th>Github帳號</th>
+    <th>Issues</th>
+  </tr>
+  <tr>
+    <td>賴彥宇</td>
+    <td>D0845367</td>
+    <td>eternaldragonborn</td>
+    <th></th>
+  </tr>
+  
+  <tr>
+    <td>雷光勝</td>
+    <td>D0636140</td>
+    <td>andersonloi1998</td>
+    <th></th>
+  </tr>
+  <tr>
+    <td>吳佳琪</td>
+    <td>D0841291</td>
+    <td>d0841291</td>
+    <th></th>
   </tr>
 </table>
